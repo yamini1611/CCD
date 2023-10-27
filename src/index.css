@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+ font-family: font;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  align-items: start;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+  font-family:font ;
+  src: url('./Components/Assets/Font//PlaypenSans-VariableFont_wght.ttf');
+}
+
+footer{
+  background-color:rgb(28, 1, 29);
+  opacity: 97.6%;
+}
+#chat{
+  text-align: end;
+}

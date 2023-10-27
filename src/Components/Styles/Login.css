@@ -1,0 +1,11 @@
+.add-to-cart-button {
+  display: none;
+}
+
+.card:hover .add-to-cart-button {
+  display: block;
+}
+
+#form {
+  text-align: start;
+}

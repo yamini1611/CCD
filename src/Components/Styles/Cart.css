@@ -1,0 +1,51 @@
+.cart-container {
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .cart-title {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .table {
+    width: 100%;
+  }
+  
+  th {
+    background-color: rgb(0, 0, 9) !important;
+    color: white;
+  }
+  
+  tr {
+    color: indigo !important;
+  }
+  
+  .product-image {
+    height: 100px;
+    width: 100px;
+  }
+  
+  .quantity-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .quantity-btn {
+    background-color: #0062CC;
+    color: white;
+  }
+  
+  .quantity-display {
+    margin: 0 10px;
+  }
+  
+  .btn-danger {
+    background-color: #DC3545;
+    color: white;
+  }
+  
+  /* Add more styles as needed */
+  

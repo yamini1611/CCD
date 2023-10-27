@@ -1,0 +1,29 @@
+#link{
+    text-decoration: none;
+}
+
+.divblack{
+    background-color:rgb(28, 1, 29);
+    opacity: 97.6%;
+    padding: 20px;
+    font-family: font;
+
+}
+
+#navlink{
+    color: rgb(251, 251, 251);
+    font-size: 20px;
+}
+
+#link{
+    text-decoration: none;
+
+}
+
+Nav h5{
+    color: white;
+}
+
+#link h5:hover{
+    color:rgb(183, 168, 4)
+}
